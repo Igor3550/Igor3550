@@ -35,7 +35,6 @@ I've studying and working with <strong>Node</strong> and <strong>React</strong>.
   <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor3550&repo=projeto13-mywallet-back&show_icons=true" alt="My github stats">
 </div>
 
-
 <!--
 **Igor3550/Igor3550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
