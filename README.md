@@ -31,8 +31,7 @@ I've studying and working with <strong>Node</strong> and <strong>React</strong>.
 </div>
 
 <div align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor3550&repo=projeto13-mywallet-front&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor3550&repo=projeto13-mywallet-back&show_icons=true" alt="My github stats">
+  
 </div>
 
 <!--
